@@ -1,4 +1,7 @@
 # missy-chatbot
+
+[![Hugging Face Space](https://img.shields.io/badge/HuggingFace-Space-blue)](https://huggingface.co/spaces/jwilliams335/my-personal-chatbot)
+
 Missy is a smart, witty, and sarcastically helpful conversational AI assistant built using Hugging Face Transformers and Gradio. This project demonstrates how to build and deploy a character-driven chatbot locally, with no need for cloud-based inference. Missy is designed to maintain a casual, assistant-like tone while responding to users in a fun and engaging way.
 
 The purpose of this project is to explore how open-source models can be customized to behave like unique personalities using prompt engineering. It’s also a technical demo of how conversational AI interfaces can be run completely on a local machine. This makes it suitable for developers learning about transformer-based chatbots, user interaction design, or local AI deployments.
